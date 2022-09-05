@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // Задания 1
         {
             // 1
             for (int i = 1; i <= 10; i++) {
@@ -23,7 +24,7 @@ public class Main {
                 System.out.println(i);
             }
         }
-
+        // Задания 2
         {
             // 1
             for (int i = 1904; i <= 2096; i += 4) {
@@ -41,7 +42,7 @@ public class Main {
                 System.out.println(tmp *= 2);
             }
         }
-
+        // Задания 3
         {
             // 1
             int salary = 29000;
